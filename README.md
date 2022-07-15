@@ -28,10 +28,10 @@ The installation steps of Ubuntu and ROS
 1- Enter the command terminal
 
 2-Configure your Ubuntu repositories (`universe`,`multiverse`,`restricted`) by using these commands:
-
-sudo add-apt-repository universe
-
 ```
+sudo add-apt-repository universe
+```
+
 then
 ```
 
