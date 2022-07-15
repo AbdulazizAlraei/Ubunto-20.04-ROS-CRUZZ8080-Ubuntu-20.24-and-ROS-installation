@@ -1,7 +1,7 @@
 # Ubuntu-20.04-and-ROS-installation
 The installation steps of Ubuntu and ROS
 
-## First Ubuntu 20.04.4 Installation steps:
+## First Ubuntu 20.04 Installation steps:
 
 1-Download and install VirtualBox.
 
